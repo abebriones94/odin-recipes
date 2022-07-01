@@ -1,0 +1,45 @@
+#background {
+    background-color: antiquewhite;
+}
+
+#LomoTitle {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+    font-size: 100px;
+    text-decoration: underline;
+    
+}
+
+#LomoPic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    width: 50%;
+}
+
+.LomoPara {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(115, 61, 61);
+    font-weight: 600;
+    font-size: 15px;   
+
+}
+
+#IngListTitle{
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 10px;
+}
+
+.IngList{
+    
+    text-align: center;
+    color: rgb(42, 36, 36);
+    font-weight: 600;
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+

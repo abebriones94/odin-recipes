@@ -1,0 +1,44 @@
+#background {
+    background-color: antiquewhite;
+}
+
+#SteakTitle {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+    font-size: 100px;
+    text-decoration: underline;
+    
+}
+
+#SteakPic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    width: 50%;
+}
+
+.steakpara {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(115, 61, 61);
+    font-weight: 600;
+    font-size: 15px;   
+
+}
+
+#Ingredients{
+    text-decoration: underline;
+    text-align: center;
+    color: rgb(42, 36, 36);
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.Ingredients {
+    font-size: 15px;
+    text-align: center;
+    color:rgb(115, 61, 61);
+    margin-top: 60px;
+}
